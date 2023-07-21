@@ -2,7 +2,7 @@
 Rack com ativos de TI para laboratorios em casa    
 Autor: Wagner Bizarro    
 Sobre:    
-Por muito tempo venho tento essa idéia, de construir um rack em casa.  
+Por muito tempo venho tento essa ideia, de construir um rack em casa.  
 E partir disso realizar os laboratorios, simulando ambientes de datacenter.  
 As etapas iniciais desse projeto foram:  
 1 - Projetar e construir um mini-rack de madeira.  
