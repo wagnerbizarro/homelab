@@ -13,4 +13,4 @@ As etapas iniciais desse projeto foram:
 A partir daqui a ideia é configurar rede e hypervisor e maquinas virtuais.  
 E assim realizar os testes de servidores e clientes.  
 
-As próximas etapas estarão detalhadas no arquivo em PDF.  
+As próximas etapas estarão detalhadas no arquivo em Homelab.pdf.  
